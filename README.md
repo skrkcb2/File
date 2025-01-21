@@ -14,7 +14,8 @@
 #### 검증이 안된 코드 예시  
 ![image](https://github.com/user-attachments/assets/a28ccf9c-dd86-4153-9c44-7e6c0cf9c374)
 #### 검증이 로직 추가 코드 예시
-![파일업로드](https://github.com/user-attachments/assets/109cd639-cbba-477f-a892-b4fdb659e2e8)
+![파일업로드](https://github.com/user-attachments/assets/109cd639-cbba-477f-a892-b4fdb659e2e8) ![확장자 추출](https://github.com/user-attachments/assets/0c85eeb2-53ed-4676-9961-f0b17286009c)
+
 
 
 
