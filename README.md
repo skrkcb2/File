@@ -8,6 +8,7 @@
 #### 검증이 로직 추가 코드 예시
 ![트래버설](https://github.com/user-attachments/assets/ae07edbf-d4b8-4867-ba2d-37d7a09994a0)
 #### 검증이 로직 추가 코드 실행 결과
+![traversal2](https://github.com/user-attachments/assets/7333b558-fdc2-4bdc-a6ec-9a66b4c44453)
 
 
 
